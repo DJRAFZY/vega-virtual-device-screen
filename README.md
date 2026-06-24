@@ -99,4 +99,8 @@ non-obvious requirements, all handled automatically by `src/vvd.rs`:
 
 ## License
 
-MIT
+MIT (see [LICENSE](LICENSE)).
+
+`proto/emulator_controller.proto` is vendored from the Android Open Source
+Project (Apache-2.0) and retains its original license header; it ships with the
+Vega/Android emulator SDK.
