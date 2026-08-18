@@ -8,7 +8,7 @@ browser.
 
 Measured **~78 fps** at 1920×1080 during on-device UI animation (a 24 fps movie
 streams at 24 fps — the stream always matches whatever the device renders).
-
+3W50P7
 ```
   ▶  Vega Virtual Device screen stream is live:
       http://127.0.0.1:8080/
